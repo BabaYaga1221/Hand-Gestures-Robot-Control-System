@@ -18,9 +18,9 @@ This project is aimed at developing a real-time control system for multiple robo
 ## Demonstration of the project
 
 ### Photos of the project
-![test_2](assets/test_4_new.png)
-![test_3](assets/test_3_new.png)
-![test_4](assets/test_2_new.png)
+![test_2](assets/test_4_new.PNG)
+![test_3](assets/test_3_new.PNG)
+![test_4](assets/test_2_new.PNG)
 
 ### Video of the project
 
@@ -37,7 +37,7 @@ The system includes the following features:
 
 ## Circuit Design
 <!-- <img src="components.jfif" alt="components" width=50% height=50%> -->
-![components](assets/components_new%20.png)
+![components](assets/components_new%20.PNG)
 
 List of the components used -
 1. ESP32 microcontroller
