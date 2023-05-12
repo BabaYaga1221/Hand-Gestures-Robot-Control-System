@@ -37,7 +37,7 @@ The system includes the following features:
 
 ## Circuit Design
 <!-- <img src="components.jfif" alt="components" width=50% height=50%> -->
-![components](assets/components_new%20.PNG)
+![components](assets/components_new.PNG)
 
 List of the components used -
 1. ESP32 microcontroller
