@@ -34,7 +34,6 @@ The system includes the following features:
 - Efficient use of system resources
 
 ## Circuit Design
-<img src="assets/components_new.PNG" alt="components" width=50% height=50%>
 
 List of the components used -
 1. ESP32 microcontroller
